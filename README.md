@@ -1,6 +1,6 @@
 # LangChain Tutorials
 
-Willkommen zu meinem LangChain Tutorial von KI Zeitalter. Diese Notebooks bilden die Anschaungsmateralien und Experimente für die YouTube Tutorial-Reihe dar, die in Kürze auf dem KI Zeitalter YT-Kanal https://www.youtube.com/channel/UCuYeTFVuY9lxNGc_eCqeC6w erscheinen.
+Willkommen zu meinem LangChain Tutorial von KI Zeitalter. Diese Notebooks bilden die Anschaungsmateralien und Experimente für die YouTube Tutorial-Reihe dar, die in Kürze auf dem KI Zeitalter YT-Kanal https://www.youtube.com/@KIZeitalter erscheinen.
 
 # Vorbereitungen
 
